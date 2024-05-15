@@ -9,4 +9,4 @@ By considering a three-dimensonal space containing a cube represented by 8 verti
 Uses the javax.swing package to render graphical elements.
 
 ## Preview
-<img src="box-preview.gif" alt="Alt Text" width="400" height="400" />
+<img src="assets/box-preview.gif" alt="Alt Text" width="400" height="400" />
