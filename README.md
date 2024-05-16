@@ -10,3 +10,6 @@ Uses the javax.swing package to render graphical elements.
 
 ## Preview
 <img src="assets/box-preview.gif" alt="Alt Text" width="400" height="400" />
+
+## Author
+Marius H. Naasen, originally created June 2018.
