@@ -4,12 +4,18 @@ This project showcases a simple implementation of rendering a box in 3D space us
 
 By considering a three-dimensonal space containing a cube represented by 8 vertices and a viewer (camera) represented by a vertex, we can render the box in the eyes of the viewer on a two-dimensonal plane (computer screen). 
 
+## Preview
+<img src="assets/box-preview.gif" alt="Alt Text" width="400" height="400" />
+
+Demonstration of a box rotating by applying rotation matrices to its vertices. 
+
 ## Dependencies
 
 Uses the javax.swing package to render graphical elements.
 
-## Preview
-<img src="assets/box-preview.gif" alt="Alt Text" width="400" height="400" />
+## Further Information
+
+For a more in-depth look at this project, please refer to [mariusnaasen.com/projects/3d-box-rendering](https://mariusnaasen.com/projects/3d-box-rendering).
 
 ## Author
 Marius H. Naasen, originally created June 2018.
