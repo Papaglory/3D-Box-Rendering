@@ -18,4 +18,4 @@ Uses the javax.swing package to render graphical elements.
 For a more in-depth look at this project, please refer to [mariusnaasen.com/projects/3d-box-rendering](https://mariusnaasen.com/projects/3d-box-rendering).
 
 ## Author
-Marius H. Naasen, originally created June 2018.
+Marius H. Naasen, originally created June 2019.
